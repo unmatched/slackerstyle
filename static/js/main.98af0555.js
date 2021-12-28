@@ -8618,14 +8618,14 @@
                 }),
                 (0, r.jsx)("h1", {
                   className: "text-2xl text-pink font-bold mb-4",
-                  children: "Larva Lads",
+                  children: "Slacker Kongz",
                 }),
                 (0, r.jsxs)("p", {
                   className: "text-sm mb-6",
                   children: [
                     (0, r.jsx)("a", {
                       className: "underline",
-                      href: "https://opensea.io/collection/larva-lads",
+                      href: "https://opensea.io/collection/slacker-kongz",
                       target: "_blank",
                       rel: "noreferrer",
                       children: "OpenSea",
@@ -8633,7 +8633,7 @@
                     " \u2219 ",
                     (0, r.jsx)("a", {
                       className: "underline",
-                      href: "https://etherscan.io/address/0x5755ab845ddeab27e1cfce00cd629b2e135acc3d",
+                      href: "https://etherscan.io/address/0x00000000000000000000000000000000",
                       target: "_blank",
                       rel: "noreferrer",
                       children: "Etherscan",
@@ -8641,7 +8641,7 @@
                     " \u2219 ",
                     (0, r.jsx)("a", {
                       className: "underline",
-                      href: "https://twitter.com/larvalads",
+                      href: "https://twitter.com/slackerstyle",
                       target: "_blank",
                       rel: "noreferrer",
                       children: "Twitter",
@@ -8651,7 +8651,7 @@
                 (0, r.jsx)("p", {
                   className: "mb-6 text-base",
                   children:
-                    "Larva Lads are a play on the CryptoPunks and their creators, Larva Labs. The artwork and metadata are fully on-chain and are randomly generated. Larva Lads are free to mint. You just need to pay the gas fees.",
+                    "Slacker Kongz are the first experiment from Slackerstyle Studios and are inspired by the CryptoPunks and their creators, Larva Labs. 3,333 total Kongz will ever exist and are free to mint. You just need to pay the gas fees.",
                 }),
                 (0, r.jsx)("p", {
                   className: "mb-3 text-sm",
